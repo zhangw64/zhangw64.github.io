@@ -1,5 +1,7 @@
 # Wen Zhang's GitHub Page
 
+To access my github repositories, please follow this link: https://github.com/zhangw64
+
 This is a machine learning classification project worked by me, Maggie(Jingyi) Li, and Levent Kayin from the Emory MSBA program Machine Learning class.
 
 The goal is to predict whether a mobile ad will be clicked. The dataset is from a competition on Kaggle :
