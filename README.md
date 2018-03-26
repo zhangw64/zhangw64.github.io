@@ -8,4 +8,5 @@ I graduated from the University of Michigan with a double-major degree in Econom
 My github repositories:
 
 Creative AI: Train the program to generate rhythms and Beatles style lyrics using Python
+
 Machine Learning: Predict the click-through rate of ads using R, original Kaggle competition link https://www.kaggle.com/c/avazu-ctr-prediction
