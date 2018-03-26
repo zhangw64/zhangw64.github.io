@@ -2,12 +2,10 @@
 
 To access my github repositories, please follow this link: https://github.com/zhangw64
 
-This is a machine learning classification project worked by me, Maggie(Jingyi) Li, and Levent Kayin from the Emory MSBA program Machine Learning class.
+I am pursuing an M.S. in Business Analytics degree at Emory University Goizueta Business School. Prior to this, I have interned at Accenture consulting, Microsoft Azure cloud sales, and a venture capital firm. I am well equipped with analytical skills and tools such as SQL, machine learning, data visualization (Tableau, Power BI, ggplot2), big data tools (Hadoop, Spark, AWS), and data mining (R, Python, Rapidminer). 
+I graduated from the University of Michigan with a double-major degree in Economics and PPE (Philosophy, Politics, and Economics), where I have also been the co-founder and president of a student theatre club. My liberal arts background and internship experiences have guided me to become an effective communicator and critical thinker with an understanding of business contexts.
 
-The goal is to predict whether a mobile ad will be clicked. The dataset is from a competition on Kaggle :
-https://www.kaggle.com/c/avazu-ctr-prediction
+My github repositories:
 
-Code 1 is to sample the original training dataset to a smaller random sample for model building.
-
-Code 2 is the main bulk of code to build models and make predictions.
-
+Creative AI: Train the program to generate rhythms and Beatles style lyrics using Python
+Machine Learning: Predict the click-through rate of ads using R, original Kaggle competition link https://www.kaggle.com/c/avazu-ctr-prediction
